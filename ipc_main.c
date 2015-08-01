@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 
 int main()
 {
@@ -8,4 +10,6 @@ int main()
   {
     printf("%d: Hello World\n", i);
   }
+  
+  fprintf(stderr, "test stderr\n");
 }
