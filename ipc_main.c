@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+typedef enum EIpcPostion
+{
+	UP,
+	DOWN,
+	LEFT,
+	RIGHT,	
+		
+}eIpcPostion;
 
 int main()
 {
