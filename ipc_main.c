@@ -21,4 +21,5 @@ int main()
   
   fprintf(stderr, "test stderr\n");
   fprintf(stderr, "test stderr\n");
+  fprintf(stderr, "test @2015-8-3");
 }
