@@ -24,4 +24,6 @@ int main()
   fprintf(stderr, "test @2015-8-3");
   fprintf(stderr, "test2 @2015-8-3");
   fprintf(stderr, "test 增加上传描述 @2015-8-3");
+
+  fprintf(stderr, "test 先提交，在fetch，之后验证merge @2015-8-3");
 }
